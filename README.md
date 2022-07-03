@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atanubhowmick
-- 👀 I’m interested in learning Java and related technologies like Spring boot, Apache Kafka, etc.
-- 🌱 I’m currently learning Python
+- 👀 I’m a Java professional having 8 years of experience. Have good grip in Spring boot, Microservices, Apache Kafka, SQL, etc.
+- 🌱 I’m currently learning Data structure, Algorithm and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
