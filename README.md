@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @atanubhowmick
-- 👀 I’m a Java professional having 9 years of experience. Have good grip in Spring boot, Microservices, Apache Kafka, SQL, etc.
-- 🌱 I’m currently going through Data structure, Algorithm and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Atanu Bhowmick [@atanubhowmick]
+- 👀 I’m a Java professional with 9 years of experience. Working in Spring boot, Microservices, Apache Kafka, MySQL, JPA, Cloud and the related technologies.
+- 🌱 I’m also good at Data structure & Algorithm. 
+- 💞️ I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/atanubhowmick)
+- 📫 How to reach me in my [LinkedIn](https://www.linkedin.com/in/atanubhowmick) profile.
 
 <!---
 atanubhowmick/atanubhowmick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
