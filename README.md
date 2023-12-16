@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Atanu Bhowmick [@atanubhowmick]
-- 👀 I’m a Java professional with 9 years of experience. Working in Spring boot, Microservices, Apache Kafka, MySQL, JPA, Cloud and the related technologies.
-- 🌱 I’m also good at Data structure, Algorithm and System Design. 
-- 💞️ I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/atanubhowmick)
+- 👀 I’m a Java professional with 9+ years of experience. Working in Spring boot, Microservices, GraphQL, Azure cloud, Spring Reactive Programming(WebFlux), Apache Kafka, MySQL, JPA the related technologies.
+- 🌱 I’m good at Data structure, Algorithm, Java Design patterns and System Design. I have created and contributing a few repositories in those areas like [design-pattern-project](https://github.com/atanubhowmick/design-pattern-project), [dynamic-programming](https://github.com/atanubhowmick/dynamic-programming), [datastructure-project](https://github.com/atanubhowmick/datastructure-project) and few more.
+- 💞️ Please let me know if you have anything for me.
 - 📫 Please feel free to reach me in my [LinkedIn](https://www.linkedin.com/in/atanubhowmick).
 
 <!---
